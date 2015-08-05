@@ -1,0 +1,1 @@
+TextParser.py takes a text file as a command line argument and runs a number of passes on the text, first parsing single digits into their written counterparts ('1' becomes 'one'), then parsing written numbers into digits, then written numbers and digits parsed to Roman numerals.

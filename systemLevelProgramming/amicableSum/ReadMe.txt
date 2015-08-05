@@ -1,0 +1,1 @@
+amicable.c and Amicable.py are both solutions for an assignment to find the sum of all amicable numbers under 10,000.

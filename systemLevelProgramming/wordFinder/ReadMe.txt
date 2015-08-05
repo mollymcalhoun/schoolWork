@@ -1,0 +1,1 @@
+The file cruncherscript.sh will run the Python script WordCruncher and find the longest and most frequent words in a text document provided as a command line argument and then print them to the user on the console.
