@@ -1,0 +1,1 @@
+Implementation of a key-value pair dictionary backed by a binary search tree. Includes methods to print the tree to the console, private iterator classes for four different traversal orders, and a means to add and remove nodes from the tree. The TestDict and MyTestDict classes can be run to observe the program.

@@ -1,0 +1,5 @@
+This assignment was to implement a number of sorting algorithms that operate on randomly generated arrays. The program keeps count of the time taken for each sorting method, as well as the number of instructions for each. The program also reports the average time, average number of instructions, and the standard deviations for both to the user.
+
+There is an unusual bug in the program that resisted days of debugging efforts in collaboration with both other students and the professor. When run for testing purposes, the merge sort will consistently return different numbers of total instructions, but when run as specified in the assignment it will always return the same number of instructions for each group of random arrays of a given size.
+
+For example, at array size 1000, merge sort always reports 154651 instructions, even when operating on new, different random arrays. At 2000, it reports 337315. This bug is reflected in merge sort's standard deviation of 0 across all array sizes. This bug only affects the merge sort.

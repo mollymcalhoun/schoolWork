@@ -1,0 +1,3 @@
+This assignment was to create an implementation of a stack data structure and use it to convert mathematical expressions in infix format to postfix format and then evaluate them. The class Calculator contains the main method and takes a text file with one mathmetical expression per line as a command line argument.
+
+We were also required to create a means to verify the validity of the provided expressions by checking for balanced parentheses and the correct number of operators and operands. Invalid expressions are passed over with a brief error message.

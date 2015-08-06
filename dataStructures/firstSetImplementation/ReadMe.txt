@@ -1,0 +1,1 @@
+First data structures course project. The assignment was to create a set data structure class and a program (SetAlgebra.java) that allows users to create, print, and perform a few operations on sets.
